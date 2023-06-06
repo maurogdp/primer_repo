@@ -1,5 +1,5 @@
 import clases as c
-print("hola")
+print("hola mauro")
 
 def registrar():
     pass
